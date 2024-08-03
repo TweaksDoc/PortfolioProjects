@@ -1,5 +1,7 @@
 --Covid 19 Data Exploration 
 --Data from 2020 till 14/7/2024
+
+
 --Done using: Microsoft SQL Server Management Studio
 --By: Dr. Mozafar Hamad (TweaksDoc)
 
